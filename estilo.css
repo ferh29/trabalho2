@@ -1,0 +1,22 @@
+.textoheader{
+    font: bolder;
+    font-size: 30px;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    border-bottom: 5px solid gray;
+    border-width: 100%;
+    display: block;
+}
+
+.dadosdelogin{
+    display: block;
+    background-color: rgb(221, 220, 220);
+}
+
+.textonormal{
+    font-size: 25px;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    color: grey;
+}
